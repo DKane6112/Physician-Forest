@@ -1,0 +1,11 @@
+Lizard
+3
+Dingo
+4
+Camel
+5
+Scorpion
+6
+Sand-Worm
+11
+Desert

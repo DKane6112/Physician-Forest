@@ -1,0 +1,11 @@
+Pixie
+4
+Centaur
+5
+Griffin
+6
+Unicorn
+7
+Dragon
+100
+Enchanted Forest

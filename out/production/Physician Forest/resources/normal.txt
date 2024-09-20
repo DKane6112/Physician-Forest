@@ -1,0 +1,11 @@
+Rabbit
+2
+Wolf
+3
+Deer
+4
+Badger
+5
+Bear
+10
+Forest
